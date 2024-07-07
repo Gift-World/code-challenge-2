@@ -37,3 +37,8 @@ function toMarkPurchased(mark) {
   mark.target.parentNode.style.textDecoration = "line-through";
   mark.target.parentNode.style.color = "red";
 }
+const clearListButton = document.getElementById("clear_list");
+const myList = document.getElementById("shopping");
+clearListButton.addEventListener("click", () => {
+  myList.innerHTML = "";
+});
