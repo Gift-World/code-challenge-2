@@ -22,11 +22,15 @@
 2. Change directory to your desired folder.
 3. Clone the repository using the command below;
 
+```
 -      git clone git@github.com:Gift-World/code-challenge-2.git
+```
 
 4. Change directory to the repo folder by typing the command;
 
+```
 -       cd code-challenge-2
+```
 
 5. Open it on your Visual Studio Code by typing the command;
 
@@ -42,7 +46,7 @@
 
 ## Live link
 
-- Click on this link to view the live website   => https://gift-world.github.io/code-challenge-2/
+- Click on this link to view the live website => https://gift-world.github.io/code-challenge-2/
 
 ## Author
 
