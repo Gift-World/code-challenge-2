@@ -16,10 +16,34 @@
 
 ## Installation
 
-- To use this repository on your computerthe following steps are to be followed:
-
-### Alternative 1
+- To use this repository on your computer the following steps are to be followed:
 
 1. Open terminal on your computer
 2. Change directory to your desired folder.
 3. Clone the repository using the command below;
+
+-      git clone git@github.com:Gift-World/code-challenge-2.git
+
+4. Change directory to the repo folder by typing the command;
+
+-       cd code-challenge-2
+
+5. Open it on your Visual Studio Code by typing the command;
+
+-       code .
+
+## Running the application
+
+- To run this application and ensure it works as it should, run the following command on the terminal on Vs Code.
+-       npm install
+- Wait untill the all the requirements are installed then run:
+-       npm test
+- All test should be passing to ensure the application works correctly.
+
+## Live link
+
+- Click on this link to view the live website
+
+## Author
+
+- This project was created by : Charles Gift
