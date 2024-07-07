@@ -42,7 +42,7 @@
 
 ## Live link
 
-- Click on this link to view the live website
+- Click on this link to view the live website   => https://gift-world.github.io/code-challenge-2/
 
 ## Author
 
